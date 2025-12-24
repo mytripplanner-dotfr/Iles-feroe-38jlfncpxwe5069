@@ -1,0 +1,111 @@
+{
+  "pays": "Iles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Nordique aux Îles Féroé: Nature et Sérénité",
+  "budget_total": "Environ 1000 € par personne",
+  "duree": "3 jours",
+  "temps_vol": "5h40 depuis Paris, France",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premières Merveilles de Vágar",
+      "legende": "Après un vol vers les mystérieuses Îles Féroé, la première journée est dédiée à une immersion douce dans la nature brute de l'île de Vágar. Entre cascades emblématiques et paysages côtiers, laissez-vous charmer par la sérénité des lieux avant de rejoindre la capitale.",
+      "lieu": "Vágar & Tórshavn",
+      "activites": [
+        "<strong>🛬 Arrivée à Vágar (FAE)</strong>: Atterrissage à l'aéroport de Vágar, porte d'entrée de cet archipel unique. Récupération des bagages et formalités d'arrivée.",
+        "<strong>🚗 Prise en charge du véhicule de location</strong>: Indispensable pour explorer les îles à votre rythme. Dirigez-vous vers le comptoir de votre loueur.",
+        "<strong>🏞️ Découverte de Múlafossur (Gásadalur)</strong>: Une courte et douce promenade vous mènera à la cascade emblématique de Múlafossur, se jetant majestueusement dans l'océan. Un spectacle apaisant et photogénique.",
+        "<strong>🏨 Installation à Tórshavn</strong>: Route vers Tórshavn, la charmante capitale. Installation dans votre hébergement pour les deux prochaines nuits."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le temps aux Féroé est très changeant. Prévoyez toujours des vêtements chauds et imperméables, même en été. Le vent peut être fort."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "La voiture est essentielle pour explorer les îles. Réservez-la bien à l'avance, surtout en haute saison, car les disponibilités sont limitées."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏡",
+      "titre": "Villages Pittoresques et Histoire Féroïenne",
+      "legende": "Cette journée vous emmène à travers des paysages côtiers spectaculaires et des villages chargés d'histoire et de charme. Des toits de tourbe de Saksun aux vestiges médiévaux de Kirkjubøur, chaque étape est une invitation à la contemplation et à la découverte culturelle.",
+      "lieu": "Streymoy & Eysturoy",
+      "activites": [
+        "<strong>⛪ Exploration de Kirkjubøur</strong>: Visitez le plus important site historique des Féroé, avec sa cathédrale inachevée de Magnus et la plus ancienne ferme en bois habitée du monde. Une balade douce dans un cadre paisible.",
+        "<strong>🏡 Visite de Saksun</strong>: Découvrez ce village isolé et pittoresque, niché au fond d'un lagon entouré de montagnes. Profitez d'une promenade relaxante le long de la plage de sable noir (attention aux marées).",
+        "<strong>🌊 Détente à Gjógv</strong>: Explorez ce charmant village connu pour sa gorge naturelle qui s'ouvre sur l'océan. Asseyez-vous et écoutez le bruit des vagues, un moment de pure sérénité."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Cuisine locale",
+          "texte": "Goûtez aux spécialités féroïennes comme l'agneau séché (ræst kjøt) ou le poisson frais. Les restaurants à Tórshavn offrent de belles options."
+        },
+        {
+          "symbole": "⚠️",
+          "titre": "Routes étroites",
+          "texte": "Les routes peuvent être étroites et sinueuses. Soyez vigilant, surtout avec les moutons qui se promènent librement."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "✈️",
+      "titre": "Le Lac Flottant et Départ",
+      "legende": "Pour cette dernière journée, une expérience visuelle unique vous attend avec le \"lac flottant\" de Sørvágsvatn, offrant des panoramas à couper le souffle. Profitez d'une dernière immersion dans la nature féroïenne avant de reprendre le chemin de l'aéroport, des souvenirs plein la tête.",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>🚶‍♀️ Randonnée au Lac Sørvágsvatn (Leitisvatn)</strong>: Une randonnée facile et emblématique vous mènera au point de vue de Trælanípa, où le lac semble flotter au-dessus de l'océan. Une illusion d'optique spectaculaire et relaxante.",
+        "<strong>🍽️ Déjeuner local près de l'aéroport</strong>: Profitez d'un dernier repas typique dans un café ou restaurant sur l'île de Vágar avant de vous diriger vers l'aéroport.",
+        "<strong>✈️ Départ des Îles Féroé</strong>: Restitution du véhicule de location et enregistrement pour votre vol retour vers Paris, France. Un voyage inoubliable s'achève."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Temps à l'aéroport",
+          "texte": "Prévoyez suffisamment de temps pour la restitution de la voiture et l'enregistrement, surtout si vous avez des souvenirs à acheter au duty-free."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les pulls en laine féroïenne sont un excellent souvenir, tout comme les produits locaux à base d'agneau ou de poisson."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "513 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 100-130 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 150-180 €/pers (3 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180-220 €/pers (2 nuits, hôtel 3* ou guesthouse)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 30-50 €/pers (principalement des frais d'accès minimes ou cafés)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Juin à Août", "symbole": "☀️" },
+    { "titre": "Mai et Septembre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Le temps est imprévisible. Prévoyez des couches de vêtements, un coupe-vent et un imperméable, quelle que soit la saison.", "symbole": "🌦️" },
+    { "titre": "La monnaie est la Couronne Danoise (DKK). Les cartes de crédit sont largement acceptées, mais un peu de liquide peut être utile.", "symbole": "💳" },
+    { "titre": "La conduite est à droite. Les routes sont bien entretenues mais peuvent être étroites. Attention aux moutons qui ont la priorité!", "symbole": "🐑" },
+    { "titre": "La couverture mobile est bonne dans la plupart des zones habitées. Le Wi-Fi est disponible dans les hébergements et cafés.", "symbole": "📶" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-04-15/2026-04-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "62°N Car Rental", "url": "https://www.62n.fo/car-rental/", "symbole": "🚗" },
+    { "legende": "Météo locale", "titre": "Météo Féroé", "url": "https://www.yr.no/en/forecast/daily-table/1-252101/Faroe%20Islands/T%C3%B3rshavn", "symbole": "🌤️" }
+  ]
+}
